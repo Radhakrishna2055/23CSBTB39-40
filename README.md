@@ -7,4 +7,6 @@ https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Lab05-AIML.ipynb
 https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Lab06_AIML.ipynb
 https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Assignment_7.ipynb
 https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Assignment_8.ipynb
+https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Lab09_AIML.ipynb
+
 https://github.com/Radhakrishna2055/23CSBTB39-40/blob/main/Labexam_expno2(Decision%20Tree).ipynb
